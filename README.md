@@ -1,4 +1,6 @@
 # Custom Component Library
+## Group: Principles and Design Patterns of React Programming - Group 7
+
 ## Requirements 
 Implement a custom component library with 3 following components
 
@@ -16,3 +18,4 @@ Implement a custom component library with 3 following components
 ## Extra Point
 - [ ] Dark mode
 - [ ] Micro animation + reduced-motion preference
+
